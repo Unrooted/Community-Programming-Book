@@ -19,3 +19,7 @@ The most popular JVM languages are:
 * [Java](./java/intro.md)
 
 * [Clojure](./clojure/intro.md)
+
+* [Kotlin](./kotlin/intro.md)
+
+* [Scala](./scala/intro.md)
